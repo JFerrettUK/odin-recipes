@@ -1,0 +1,18 @@
+p {
+    font-family: Helvetica, sans-serif;
+    color: darkgrey;    
+}
+
+a:link {
+    color: darkgray;
+}
+
+a:visited {
+    color:darkslategrey;
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    background-color: bisque;
+    color:slategray
+}
